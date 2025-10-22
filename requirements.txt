@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
+=======
+streamlit
+pandas
+numpy
+>>>>>>> 72547fc (Initial commit)
 plotly
